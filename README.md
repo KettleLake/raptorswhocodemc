@@ -17,4 +17,5 @@ Student Membership is optional, but if you do decide to become a member, it will
 Weekly Club Meetings: 
 -- Fridays from 4:30-5:30pm (On Zoom) -- 
 Please join our Discord for all club info!
+
 Discord: https://discord.gg/U7nYwkkjFn
