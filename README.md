@@ -1,6 +1,7 @@
 ### Raptors Who Code
-
-<img src="RWC Logo.png" alt="RWC Logo" style="width:250px;height:250px;" class="center">
+<p align="center">
+  <img src="RWC Logo.png" alt="RWC Logo" style="width:250px;height:250px;">
+</p>
 
 # Our Mission
 Raptors Who Code is the club for anyone in a tech field--or anyone interested in one--to dive deeper into the world of programming and computers. 
