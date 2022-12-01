@@ -1,16 +1,19 @@
-### Hi there 👋
+### Raptors Who Code
 
-<!--
-**raptorswhocodemc/raptorswhocodemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="RWC Logo.png" alt="RWC Logo" style="width:250px;height:250px;">
 
-Here are some ideas to get you started:
+# Our Mission
+Raptors Who Code is the club for anyone in a tech field--or anyone interested in one--to dive deeper into the world of programming and computers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We aim to help our members build their portfolios by making social connections, holding tech--related talks, attending hackathons, and providing a positive, friendly environment for you to learn.
+
+# ACM Information
+Raptors Who Code (RWC) is an ACM Student Chapter that provides resources and information to students.
+It is a great way to gain access to publications that can help you get internships and jobs.
+Student Membership is optional, but if you do decide to become a member, it will cost $20 a year, and will transfer if you go to another school. 
+
+# Meeting Information
+Weekly Club Meetings: 
+-- Fridays from 4:30-5:30pm (On Zoom) -- 
+Please join our Discord for all club info!
+Discord: https://discord.gg/U7nYwkkjFn
