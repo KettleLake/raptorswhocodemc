@@ -23,5 +23,5 @@
 -- Fridays from 4:30-5:30pm (On Zoom) -- 
 Please join our Discord for all club info!
 
-Discord: https://discord.gg/U7nYwkkjFn
+  Discord: https://discord.gg/U7nYwkkjFn
 </p>
