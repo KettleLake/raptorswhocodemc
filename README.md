@@ -20,3 +20,4 @@
 Please join our Discord for all club info!
 </p>
 Discord: https://discord.gg/U7nYwkkjFn
+:)
