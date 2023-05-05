@@ -16,7 +16,7 @@
 # Meeting Information
 <p align="center">
   Weekly Club Meetings: 
--- Fridays from 4:30-5:30pm (On Zoom) -- 
+-- Fridays from 5-6pm (On Zoom) -- 
 Please join our Discord for all club info!
 </p>
 Discord: https://discord.gg/U7nYwkkjFn
