@@ -15,9 +15,7 @@
 
 # Meeting Information
 <p align="center">
-  Weekly Club Meetings: 
--- Fridays from 5-6pm (On Zoom) -- 
-Please join our Discord for all club info!
+  Weekly Meetings: 
+-- Fridays from 5-6 PM -- 
+Contact raptorswhocode@gmail.com
 </p>
-Discord: https://discord.gg/U7nYwkkjFn
-:)
